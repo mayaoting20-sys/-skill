@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🏳️‍🌈 出柜模拟器.Skill
+# 出柜模拟器.Skill
 
 **基于 Claude Code 的出柜顾问与对话演练工具**
 
-帮助 LGBTQ+ 用户摸清家庭底牌、获取有温度的策略建议，<br>并在安全环境里演练出柜对话，积累真实的心理经验。
+帮助用户摸清家庭底牌、获取有温度的策略建议，<br>并在安全环境里演练出柜对话，积累真实的心理经验。
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)
